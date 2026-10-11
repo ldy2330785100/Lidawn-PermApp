@@ -20,10 +20,6 @@
 - 👉 [前往下载](https://github.com/ldy2330785100/Lidawn-PermApp/releases/)
 
 - <div>
-    <a href="https://github.com/ldy2330785100/Lidawn-PermApp/commits/main">
-    <img src="https://img.shields.io/github/last-commit/ldy2330785100/Lidawn-PermApp" alt="GitHub last commit">
-  </a>
-  <br>
   <a href="https://github.com/ldy2330785100/Lidawn-PermApp/releases">
     <img src="https://img.shields.io/github/v/release/ldy2330785100/Lidawn-PermApp" alt="GitHub release">
   </a>
